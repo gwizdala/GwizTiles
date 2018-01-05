@@ -1,4 +1,4 @@
-GwizTiles
+<img src="./example_imgs/GwizTiles_logo.png" title="GwizTiles Logo" height="150px" width="auto"/>
 ===================
 
 
